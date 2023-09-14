@@ -5,16 +5,5 @@
 - Branch
 - Conflict 해결 방법 + Merge
 
-<code>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>이건 새로운 기능!!</title>
-</head>
-<body>
-  <p>풀리퀘스트가 생긴다!</p>
-</body>
-</html>
-</code>
+<code>이건 새로운 기능!!</code>
+VSCode에서 Git 사용하자!!!!
